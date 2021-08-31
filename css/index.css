@@ -1,0 +1,38 @@
+body
+{
+    margin: 0 auto;
+}
+
+.heading
+{
+    text-align: center;
+}
+
+.container
+{
+    margin: auto;
+}
+
+.image
+{
+    height: 100%;
+    width: 100% ;
+    object-fit: cover;
+    margin: 10px 10px 5px 0px;
+    padding: 1px;
+    width: 350px;
+    height: 350px;
+}
+
+li
+{
+    text-decoration: none;
+    list-style: none;
+    float: left;
+}
+
+#playButton, #stopButton
+{
+    cursor: pointer;
+    margin-left: 20px;
+}

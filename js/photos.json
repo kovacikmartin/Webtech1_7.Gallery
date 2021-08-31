@@ -1,0 +1,35 @@
+{
+    "photos":
+    [
+      {
+        "src": "img/grand_teton_peaks.jpg",
+        "title": "Grand Teton peaks",
+        "description": "A little bit saturated photo, but it's nice, innit ?"
+      },
+      {
+        "src": "img/grand_teton_barn.jpg",
+        "title": "Grand Teton barn",
+        "description": "Abandoned barn in national park Grand Teton"
+      },
+      {
+        "src": "img/yellowstone_waterfall.jpg",
+        "title": "Yellowstone waterfall",
+        "description": "Waterfall in the heart of national park Yellowstone"
+      },
+      {
+        "src": "img/bison_winter_yellowstone.jpg",
+        "title": "Bison in snowy Yellowstone",
+        "description": "Bison wading through snow in national park"
+      },
+      {
+        "src": "img/montana_ranch.jpg",
+        "title": "Ranch in Montana",
+        "description": "Ranch, located somewhere in Montana"
+      },
+      {
+        "src": "img/montana_big_sky.jpg",
+        "title": "Montana Big Sky",
+        "description": "Part of Montana called Big Sky"
+      }                        
+    ]
+  }
